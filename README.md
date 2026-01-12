@@ -30,9 +30,9 @@ This project was created to practice core JavaScript concepts and DOM manipulati
 ---
 
 #  Project Structure
- index.html → Game layout
- style.css → Styling and UI design
- app.js → Game logic and interactivity
+- index.html → Game layout
+- style.css → Styling and UI design
+- app.js → Game logic and interactivity
 
 ---
 
